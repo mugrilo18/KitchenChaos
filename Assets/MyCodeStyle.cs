@@ -12,8 +12,8 @@ public class MyCodeStyle : MonoBehaviour
     // Properties: PascalCase
     private static MyCodeStyle Instance;
 
-    // Events: PascalCase
-    private event EventHandler OnSomethingHappend;
+    /* // Events: PascalCase
+    private event EventHandler OnSomethingHappend; */
 
     // Fields: camelCase
     private float memberVariable;
