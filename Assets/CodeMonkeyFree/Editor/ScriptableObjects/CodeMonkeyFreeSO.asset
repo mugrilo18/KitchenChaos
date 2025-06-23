@@ -14,39 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1750622207
+  lastShownTimestamp: 1750722524
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1750622207
+  checkedLastUpdateTimestamp: 1750722524
   lastQOTDResponse:
-    questionId: 193
-    questionText: What will happen on January 19, 2038 at 03:14:07?
-    answerA: Armagedon
-    answerB: End of Unix Time
-    answerC: Half-Life 3 release date
+    questionId: 194
+    questionText: What is JSON and what is it useful for?
+    answerA: JavaScript Over Node, programming pattern
+    answerB: JavaScript Object Notation, data format
+    answerC: Jumping-Signal Over Nonce, crypto concept
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1750622207
+  lastQotdTimestamp: 1750722524
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/ultimateOverview70_6FreeUpdate.png
     topText: Learn how to use 70 Tools and Features! (Unity 6 Updated)
     topLink: ultimateunityoverview
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1750622207
+  lastDynamicHeaderTimestamp: 1750722524
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1750622207
+  websiteLatestMessageTimestamp: 1750722524
   websiteLatestVideos:
     videos:
+    - youTubeId: iN3Q0RBiWk8
+      title: What do the BEST Programmers do differently?
     - youTubeId: Nv-pG1v_TaM
       title: TOP 10 NEW Systems and Tools JUNE 2025! | Unity Asset Store
     - youTubeId: KrjXYXGdnj8
       title: How to BREAK your Desktop!
     - youTubeId: AD5HtjUun5g
       title: Which Unity Version should you use?
-    - youTubeId: 2UP_g58SDKM
-      title: TOP 10 FREE NEW Assets JUNE 2025!
-  websiteLatestVideosTimestamp: 1750622207
+  websiteLatestVideosTimestamp: 1750722524
