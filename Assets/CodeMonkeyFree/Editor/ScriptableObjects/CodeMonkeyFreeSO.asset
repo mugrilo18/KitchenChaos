@@ -14,39 +14,45 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1750872569
+  lastShownTimestamp: 1751064084
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1750872569
+  checkedLastUpdateTimestamp: 1751064085
   lastQOTDResponse:
-    questionId: 194
-    questionText: What is JSON and what is it useful for?
-    answerA: JavaScript Over Node, programming pattern
-    answerB: JavaScript Object Notation, data format
-    answerC: Jumping-Signal Over Nonce, crypto concept
+    questionId: 195
+    questionText: 'Does this code have an error?
+
+      <p>int myNewX = 10;</p>
+
+      <p>transform.position.x
+      = myNewX;</p>'
+    answerA: Yes
+    answerB: No
+    answerC: Only if GameObject does not have a Transform component
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1750872569
+  lastQotdTimestamp: 1751064085
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleJun25MegaMix.png
     topText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1750872569
+  lastDynamicHeaderTimestamp: 1751064085
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1750872569
+  websiteLatestMessageTimestamp: 1751064085
   websiteLatestVideos:
     videos:
+    - youTubeId: du6S-egCx1s
+      title: Getting Started with Unity AI (Assistant, Generators, Developer Data
+        Framework)
     - youTubeId: tFU4cO_m5Xo
       title: TOP 10 NEW Games, Made with Unity! (MAY 2025)
     - youTubeId: iN3Q0RBiWk8
       title: What do the BEST Programmers do differently?
     - youTubeId: Nv-pG1v_TaM
       title: TOP 10 NEW Systems and Tools JUNE 2025! | Unity Asset Store
-    - youTubeId: KrjXYXGdnj8
-      title: How to BREAK your Desktop!
-  websiteLatestVideosTimestamp: 1750872569
+  websiteLatestVideosTimestamp: 1751064085
