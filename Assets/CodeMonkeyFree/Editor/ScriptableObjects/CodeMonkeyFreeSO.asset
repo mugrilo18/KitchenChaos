@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1751064084
+  lastShownTimestamp: 1751231583
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1751064085
+  checkedLastUpdateTimestamp: 1751231583
   lastQOTDResponse:
     questionId: 195
     questionText: 'Does this code have an error?
@@ -32,20 +32,23 @@ MonoBehaviour:
     answerC: Only if GameObject does not have a Transform component
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1751064085
+  lastQotdTimestamp: 1751231583
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleJun25MegaMix.png
-    topText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
-    topLink: humblebundle
-    bottomText: My 10+ Years of C# Knowledge in 1 Course!
-    bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1751064085
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cSharpCourseNewBeginnerProjects.png
+    topText: I just updated my C# course with 10 FUN Beginner Projects! Learn by
+      DOING!
+    topLink: csharpcourse
+    bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
+    bottomLink: humblebundle
+  lastDynamicHeaderTimestamp: 1751231583
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1751064085
+  websiteLatestMessageTimestamp: 1751231583
   websiteLatestVideos:
     videos:
+    - youTubeId: 6WUJ3z9EGnI
+      title: TOP 20 Visual Assets to INSPIRE YOU! (JUNE 2025)
     - youTubeId: du6S-egCx1s
       title: Getting Started with Unity AI (Assistant, Generators, Developer Data
         Framework)
@@ -53,6 +56,4 @@ MonoBehaviour:
       title: TOP 10 NEW Games, Made with Unity! (MAY 2025)
     - youTubeId: iN3Q0RBiWk8
       title: What do the BEST Programmers do differently?
-    - youTubeId: Nv-pG1v_TaM
-      title: TOP 10 NEW Systems and Tools JUNE 2025! | Unity Asset Store
-  websiteLatestVideosTimestamp: 1751064085
+  websiteLatestVideosTimestamp: 1751231583
