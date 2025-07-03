@@ -14,23 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1751412803
+  lastShownTimestamp: 1751502680
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1751412803
+  checkedLastUpdateTimestamp: 1751502680
   lastQOTDResponse:
-    questionId: 196
-    questionText: 'Does this variable get reset when you load a different Scene?
-
-      <p>private
-      static int score;</p>'
-    answerA: Yes
-    answerB: No
-    answerC: Only when loading the Main Menu
+    questionId: 197
+    questionText: What is the difference between Action&lt;float&gt; and Func&lt;float&gt;
+      ?
+    answerA: Both are the same
+    answerB: Action&#60;float&#62; takes float parameter and Func&#60;float&#62;
+      returns float
+    answerC: Func&#60;float&#62; takes float parameter and Action&#60;float&#62;
+      returns float
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1751412803
+  lastQotdTimestamp: 1751502680
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cSharpCourseNewBeginnerProjects.png
     topText: I just updated my C# course with 10 FUN Beginner Projects! Learn by
@@ -38,11 +38,11 @@ MonoBehaviour:
     topLink: csharpcourse
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1751412803
+  lastDynamicHeaderTimestamp: 1751502680
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1751412803
+  websiteLatestMessageTimestamp: 1751502680
   websiteLatestVideos:
     videos:
     - youTubeId: K0di3MEm70U
@@ -54,4 +54,4 @@ MonoBehaviour:
         Framework)
     - youTubeId: tFU4cO_m5Xo
       title: TOP 10 NEW Games, Made with Unity! (MAY 2025)
-  websiteLatestVideosTimestamp: 1751412803
+  websiteLatestVideosTimestamp: 1751502680
