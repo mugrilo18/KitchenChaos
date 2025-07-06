@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1751667945
+  lastShownTimestamp: 1751758195
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1751667945
+  checkedLastUpdateTimestamp: 1751758195
   lastQOTDResponse:
     questionId: 197
     questionText: What is the difference between Action&lt;float&gt; and Func&lt;float&gt;
@@ -30,7 +30,7 @@ MonoBehaviour:
       returns float
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1751667945
+  lastQotdTimestamp: 1751758195
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cSharpCourseNewBeginnerProjects.png
     topText: I just updated my C# course with 10 FUN Beginner Projects! Learn by
@@ -38,20 +38,19 @@ MonoBehaviour:
     topLink: csharpcourse
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1751667945
+  lastDynamicHeaderTimestamp: 1751758195
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1751667945
+  websiteLatestMessageTimestamp: 1751758195
   websiteLatestVideos:
     videos:
+    - youTubeId: mdjap-NtkWs
+      title: TOP 10 NEW Games, Made with Unity! (JUNE 2025)
     - youTubeId: Lj_CgExP3AA
       title: You Game ANCHOR is super important! Do you know it?
     - youTubeId: K0di3MEm70U
       title: Learn C# Making Beginner Projects! (FizzBuzz, Hangman - SOON!)
     - youTubeId: 6WUJ3z9EGnI
       title: TOP 20 Visual Assets to INSPIRE YOU! (JUNE 2025)
-    - youTubeId: du6S-egCx1s
-      title: Getting Started with Unity AI (Assistant, Generators, Developer Data
-        Framework)
-  websiteLatestVideosTimestamp: 1751667945
+  websiteLatestVideosTimestamp: 1751758195

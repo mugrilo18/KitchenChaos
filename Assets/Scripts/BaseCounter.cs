@@ -7,6 +7,10 @@ public class BaseCounter : MonoBehaviour, IKitchenObjectParent
     [SerializeField] private Transform counterTopPoint;
 
     private KitchenObject kitchenObject;
+    public virtual void InteractAlternate(Player player)
+    {
+        Debug.LogError("BaseCounter.InteractAlternate();");
+    }
 
     public virtual void Interact(Player player)
     {
