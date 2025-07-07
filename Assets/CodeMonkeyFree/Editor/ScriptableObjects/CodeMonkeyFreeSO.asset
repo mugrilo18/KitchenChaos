@@ -14,23 +14,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1751758195
+  lastShownTimestamp: 1751925558
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1751758195
+  checkedLastUpdateTimestamp: 1751925559
   lastQOTDResponse:
-    questionId: 197
-    questionText: What is the difference between Action&lt;float&gt; and Func&lt;float&gt;
-      ?
-    answerA: Both are the same
-    answerB: Action&#60;float&#62; takes float parameter and Func&#60;float&#62;
-      returns float
-    answerC: Func&#60;float&#62; takes float parameter and Action&#60;float&#62;
-      returns float
+    questionId: 198
+    questionText: 'What is the possible error in this code:
+
+      <p>tickTimer +=
+      Time.deltaTime;</p>
+
+      <p>if (tickTimer &gt;= TICK_TIMER_MAX) {</p>
+
+      <p>&nbsp;
+      &nbsp; tickTimer -= TICK_TIMER_MAX;</p>
+
+      <p>&nbsp; &nbsp; tick++;</p>
+
+      <p>&nbsp;
+      &nbsp; OnTickEvent(this, EventArgs.Empty);</p>
+
+      <p>}</p>'
+    answerA: None
+    answerB: NullReferenceException
+    answerC: 2 ticks at once
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1751758195
+  lastQotdTimestamp: 1751925559
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cSharpCourseNewBeginnerProjects.png
     topText: I just updated my C# course with 10 FUN Beginner Projects! Learn by
@@ -38,19 +50,19 @@ MonoBehaviour:
     topLink: csharpcourse
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1751758195
+  lastDynamicHeaderTimestamp: 1751925559
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1751758195
+  websiteLatestMessageTimestamp: 1751925559
   websiteLatestVideos:
     videos:
+    - youTubeId: miW-Q8EuRWU
+      title: The BEST Worldbuilding Tool is FREE! (ENDS SOON!)
     - youTubeId: mdjap-NtkWs
       title: TOP 10 NEW Games, Made with Unity! (JUNE 2025)
     - youTubeId: Lj_CgExP3AA
       title: You Game ANCHOR is super important! Do you know it?
     - youTubeId: K0di3MEm70U
       title: Learn C# Making Beginner Projects! (FizzBuzz, Hangman - SOON!)
-    - youTubeId: 6WUJ3z9EGnI
-      title: TOP 20 Visual Assets to INSPIRE YOU! (JUNE 2025)
-  websiteLatestVideosTimestamp: 1751758195
+  websiteLatestVideosTimestamp: 1751925559
