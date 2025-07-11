@@ -14,55 +14,46 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1752016102
+  lastShownTimestamp: 1752187814
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1752016102
+  checkedLastUpdateTimestamp: 1752187814
   lastQOTDResponse:
-    questionId: 198
-    questionText: 'What is the possible error in this code:
+    questionId: 199
+    questionText: 'Does this code compile?
 
-      <p>tickTimer +=
-      Time.deltaTime;</p>
+      <p>private void SetTarget(Transform
+      target) {</p>
 
-      <p>if (tickTimer &gt;= TICK_TIMER_MAX) {</p>
-
-      <p>&nbsp;
-      &nbsp; tickTimer -= TICK_TIMER_MAX;</p>
-
-      <p>&nbsp; &nbsp; tick++;</p>
-
-      <p>&nbsp;
-      &nbsp; OnTickEvent(this, EventArgs.Empty);</p>
+      <p>&nbsp; &nbsp; GameObject targetGameObject = target;</p>
 
       <p>}</p>'
-    answerA: None
-    answerB: NullReferenceException
-    answerC: 2 ticks at once
+    answerA: No
+    answerB: Yes
+    answerC: Yes if target is not null
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1752016102
+  lastQotdTimestamp: 1752187814
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cSharpCourseNewBeginnerProjects.png
-    topText: I just updated my C# course with 10 FUN Beginner Projects! Learn by
-      DOING!
-    topLink: csharpcourse
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle.png
+    topText: All my Courses (and Games) in one Bundle! DEEP DISCOUNT ONLY THIS SUMMER!
+    topLink: summer2025bundle
     bottomText: AWESOME NEW Unity Bundle with Tools and Assets 97% OFF!
     bottomLink: humblebundle
-  lastDynamicHeaderTimestamp: 1752016102
+  lastDynamicHeaderTimestamp: 1752187814
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1752016102
+  websiteLatestMessageTimestamp: 1752187814
   websiteLatestVideos:
     videos:
+    - youTubeId: ALogEuL6QdA
+      title: The BEST Design Patterns for Game Dev! (Save Time and make BETTER Games!)
+    - youTubeId: 7RwMD97Le7I
+      title: Learn C# by DOING, FizzBuzz Beginner Project (Overview + Walkthrough)
     - youTubeId: miW-Q8EuRWU
       title: The BEST Worldbuilding Tool is FREE! (ENDS SOON!)
     - youTubeId: mdjap-NtkWs
       title: TOP 10 NEW Games, Made with Unity! (JUNE 2025)
-    - youTubeId: Lj_CgExP3AA
-      title: You Game ANCHOR is super important! Do you know it?
-    - youTubeId: K0di3MEm70U
-      title: Learn C# Making Beginner Projects! (FizzBuzz, Hangman - SOON!)
-  websiteLatestVideosTimestamp: 1752016102
+  websiteLatestVideosTimestamp: 1752187814
